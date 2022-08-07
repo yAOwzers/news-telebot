@@ -1,2 +1,8 @@
 
 botenv/.env
+botenv/lib/
+botenv/bin/
+botenv/include/
+scrapper.log
+pyvenv.cfg
+__pycache__
